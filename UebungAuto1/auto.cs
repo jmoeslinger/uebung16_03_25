@@ -1,10 +1,16 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
+﻿namespace UebungAuto1;
 
-namespace UebungAuto1
+public class Auto
 {
-    internal class auto
+    public string Marke { get; set; }
+    public string Modell { get; set; }
+    public int Baujahr { get; set; }
+    
+    public void InfoAusgeben()
     {
+        Console.WriteLine($"Marke: {Marke}");
+        Console.WriteLine($"Modell: {Modell}");
+        Console.WriteLine($"Baujahr: {Baujahr}");
     }
+
 }
