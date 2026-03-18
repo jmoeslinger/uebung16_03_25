@@ -8,4 +8,5 @@
   <Project Path="UebungKonto/UebungKonto.csproj" Id="074ffbcc-5f47-42c7-b1fc-110a3518b89a" />
   <Project Path="UebungLampe/UebungLampe.csproj" Id="1caacf67-55ae-4dfc-9216-881e5bb9b1c5" />
   <Project Path="UebungSchueler/UebungSchueler.csproj" Id="accd52c6-a38d-41aa-855a-cc77d895aa0f" />
+  <Project Path="UebungTempreatur/UebungTempreatur.csproj" Id="41489342-486b-4363-917d-81db3aee82c5" />
 </Solution>
