@@ -1,4 +1,5 @@
 <Solution>
+  <Project Path="letzteUebungFernseher/letzteUebungFernseher.csproj" Id="691ef4fd-fcc9-4efe-b3ca-f1864c84f577" />
   <Project Path="Uebung20260316.Wiederholung/Uebung20260316.Wiederholung.csproj" />
   <Project Path="UebungAuto1/UebungAuto1.csproj" Id="33a71941-e92c-45a7-ae93-fbf813c17de8" />
   <Project Path="UebungAuto2/UebungAuto2.csproj" Id="a894e95c-d228-4c6c-9e0f-93a8bf540339" />
@@ -8,5 +9,5 @@
   <Project Path="UebungKonto/UebungKonto.csproj" Id="074ffbcc-5f47-42c7-b1fc-110a3518b89a" />
   <Project Path="UebungLampe/UebungLampe.csproj" Id="1caacf67-55ae-4dfc-9216-881e5bb9b1c5" />
   <Project Path="UebungSchueler/UebungSchueler.csproj" Id="accd52c6-a38d-41aa-855a-cc77d895aa0f" />
-  <Project Path="UebungTempreatur/UebungTempreatur.csproj" Id="41489342-486b-4363-917d-81db3aee82c5" />
+  <Project Path="UebungTempreatur/UebungTemperatur.csproj" Id="41489342-486b-4363-917d-81db3aee82c5" />
 </Solution>
