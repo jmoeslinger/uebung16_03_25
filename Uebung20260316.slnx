@@ -5,6 +5,7 @@
   <Project Path="UebungFragen/UebungFragen.csproj" Id="077ff4d2-e427-43d6-adf5-996ece99da47" />
   <Project Path="UebungHandy/UebungHandy.csproj" Id="fe3ecc28-e57c-4c92-aa77-d29ce374dfe9" />
   <Project Path="UebungHund/UebungHund.csproj" Id="e4774420-0f85-466f-9110-58af170b7cd2" />
+  <Project Path="UebungKonto/UebungKonto.csproj" Id="074ffbcc-5f47-42c7-b1fc-110a3518b89a" />
   <Project Path="UebungLampe/UebungLampe.csproj" Id="1caacf67-55ae-4dfc-9216-881e5bb9b1c5" />
   <Project Path="UebungSchueler/UebungSchueler.csproj" Id="accd52c6-a38d-41aa-855a-cc77d895aa0f" />
 </Solution>
